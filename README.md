@@ -10,22 +10,22 @@ The game features a player versus AI mode, where you can play against an unbeata
 
 ## How to Play
 
-    - Open the tictactoe.html file in a web browser.
-    - The game board will be displayed with a 3x3 grid.
-    - Each cell represents a spot where you can place your symbol.
-    - Click on an empty cell to place your symbol.
-    - The AI opponent will automatically take its turn after you.
-    - Continue taking turns until the game ends.
-    - The game ends when either a player wins or there is a tie.
-    - If you want to play again, click the "Replay" button.
+- Open the tictactoe.html file in a web browser.
+- The game board will be displayed with a 3x3 grid.
+- Each cell represents a spot where you can place your symbol.
+- Click on an empty cell to place your symbol.
+- The AI opponent will automatically take its turn after you.
+- Continue taking turns until the game ends.
+- The game ends when either a player wins or there is a tie.
+- If you want to play again, click the "Replay" button.
 
 ## Game Implementation
 
 ### The game is implemented using the following files:
 
-    - tictactoe.html: This file contains the HTML structure of the game, including the game board, endgame message, and the replay button.
-    - style.css: This file contains the CSS styles that define the look and layout of the game.
-    - script.js: This file contains the JavaScript code that powers the game logic, including player turns, win detection, AI opponent, and game restart functionality.
+- tictactoe.html: This file contains the HTML structure of the game, including the game board, endgame message, and the replay button.
+- style.css: This file contains the CSS styles that define the look and layout of the game.
+- script.js: This file contains the JavaScript code that powers the game logic, including player turns, win detection, AI opponent, and game restart functionality.
 
 ## Credits
 
